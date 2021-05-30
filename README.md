@@ -1,4 +1,4 @@
-- Mike Zagreda: Football Solutions Engineer at the NAtional Football League
+- Mike Zagreda: Football Solutions Engineer at the National Football League
 
 <!---
 zagredam/zagredam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
